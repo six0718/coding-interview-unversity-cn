@@ -3,21 +3,23 @@
 本学习大纲参考[coding-interview-university](https://github.com/jwasham/coding-interview-university)(180K+ star)。因原大纲由一位来自Amazon的国外工程师撰写，所有参考资料都是英文的，且部分视频都来自youtube，这给学习带来了一些困难。本大纲将部分youtube视频搬运到国内方便访问的bilibili，部分视频使用国内优质视频替代，并进行了部分重新整理，使其更符合中国人的阅读习惯。
 ## 如何使用它
 
-下面所有的东西都只是一个概述。因此，你需要由上而下逐一地去处理它。
-
-在学习过程中，我使用 GitHub 特殊语法的 markdown 去检查计划的进展，包括使用包含任务进度的任务列表。
+在学习过程中，推荐使用Github/Gitee来进行任务进度跟踪
 
 **创建一个新的分支，以便你可以像这样去勾选计划的进展：直接往方括号中填写一个字符 x 即可：[x]**。
 
     Fork一个分支，并跟随以下的指令
 
-通过单击 Fork 按钮来 fork GitHub 仓库：[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+通过单击 Fork 按钮来 fork 仓库：[github](https://github.com/xiaochaohit/coding-interview-unversity-cn)[gitee](https://github.com/xiaochaohit/coding-interview-unversity-cn)
+```
+克隆项目到本地,例如
+git clone https://github.com/xiaochaohit/coding-interview-unversity-cn.git
+```
+```
+本地创建progress分支
+git checkout -b progress
+```
 
-    克隆项目到本地
-
-`git checkout -b progress`
-
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
+`git remote add xiaochaohit https://github.com/xiaochaohit/coding-interview-unversity-cn`
 
 `git fetch --all`
 
