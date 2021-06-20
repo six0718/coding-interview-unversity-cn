@@ -9,7 +9,7 @@
 
     Fork一个分支，并跟随以下的指令
 
-通过单击 Fork 按钮来 fork 仓库：[github](https://github.com/xiaochaohit/coding-interview-unversity-cn)[gitee](https://github.com/xiaochaohit/coding-interview-unversity-cn)
+通过单击 Fork 按钮来 fork 仓库：[github](https://github.com/xiaochaohit/coding-interview-unversity-cn)   [gitee](https://github.com/xiaochaohit/coding-interview-unversity-cn)
 ```
 克隆项目到本地,例如
 git clone https://github.com/xiaochaohit/coding-interview-unversity-cn.git
